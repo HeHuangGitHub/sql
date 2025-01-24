@@ -1,4 +1,5 @@
 # Assignment 1: Meet the farmersmarket.db and Basic SQL
+Name: He Huang
 
 🚨 **Please review our [Assignment Submission Guide](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md)** 🚨 for detailed instructions on how to format, branch, and submit your work. Following these guidelines is crucial for your submissions to be evaluated correctly.
 
