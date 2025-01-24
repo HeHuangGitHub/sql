@@ -212,4 +212,6 @@ Under some circumstances, it is comprehensible that the socioeconomic status mus
 
 Another example is the impact of one's immigration status on employment opportunities, particularly in the US. Although it is illegal to discriminate against someone based on their national origin, many organizations would require the applicants to specify whether they would need visa sponsorship now or in the future and use this as a criterion in the hiring process. Those who are legally authorized to work but not having permanent residency or citizenship of the US would be excluded even if they are highly qualified.
 
+To ensure the equality and eliminate the chance of misusing information, only relevant information should be collected into the database. Other information that may potentially lead to discrimination should not be designed into the schema.
+
 ```
