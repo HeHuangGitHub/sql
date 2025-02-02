@@ -1,4 +1,5 @@
 # Assignment 2: Design a Logical Model and Advanced SQL
+# Name: He Huang
 
 🚨 **Please review our [Assignment Submission Guide](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md)** 🚨 for detailed instructions on how to format, branch, and submit your work. Following these guidelines is crucial for your submissions to be evaluated correctly.
 
@@ -53,8 +54,9 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 
 **HINT:** search type 1 vs type 2 slowly changing dimensions. 
 
+<img src="./images/assignment2.png">
 ```
-Your answer...
+The two architechtres are illustrated in the figure above. Type 1 slowly changing dimensions overwirtes the changes whereas type 2 retains changes.
 ```
 
 ***
@@ -182,5 +184,7 @@ Consider, for example, concepts of labour, bias, LLM proliferation, moderating c
 
 
 ```
-Your thoughts...
+The quickly advanced technologies in the field of artificial intelligence are drastically changing our daily lives, mostly in positive ways. This article revealed the process of generating large public database for developing new algorithms. While we are appreciating the fascinating world of AI, there are some ethical issues that should be taken into serious consideration.
+
+The ImageNet is an important milestone for Dr. Fei-Fei Li's career. Many scientists' accomplishments, such as Dr. Geoffrey Hinton's invention of deep neural network algorithm were also built upon it. However, the manual labor of creating ImageNet was contributed by numerous invisible "Turkers", whose jobs were fundamentally important yet significantly lower-paid, certainly at a rate lower than the minimum wage of any region in the world, and not properly acknowledged anywhere. In addition, the millions of images used by ImageNet were collected from the Internet by queries without getting the permission from their creators. For some of those images that were copyright protected, this should be considered as a violation of intellectual property rights. Even for those photos that were leisurely taken, the acknowledgement to the authors should be extended. Nevertheless, given these images were automatically collected, there would be no way to do so. What is more, because the information was queried from the Internet, some of the images may contain sensitive information. If this information was gathered into a publicly available database, and many people used advanced algorithms to analyze it, some personable information would possibly become identifiable, which would seriously jeopardize the privacy of the subjects.
 ```
