@@ -1,4 +1,5 @@
 # Assignment 1: Meet the farmersmarket.db and Basic SQL
+Name: He Huang
 
 🚨 **Please review our [Assignment Submission Guide](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md)** 🚨 for detailed instructions on how to format, branch, and submit your work. Following these guidelines is crucial for your submissions to be evaluated correctly.
 
@@ -105,6 +106,7 @@ Please do not pick the exact same tables that I have already diagrammed. For exa
 	- These are the tables that are connected
 	- <img src="./images/01_farmers_market_conceptual_model.png" width="600">
 - The column names can be found in a few spots (DB Schema window in the bottom right, the Database Structure tab in the main window by expanding each table entry, at the top of the Browse Data tab in the main window)
+<img src="./images/assignment1.jpg">
 
 ***
 
@@ -205,5 +207,12 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 
 ```
-Your thoughts...
+Many databases would collect a person's personal information including race and ethnicity, level of education, amount of income and employment. Those are traditionally considered as factors that determine a person's socioeconomic status. Hence, people at lower socioeconomic status tend to be at a disadvantage when it comes to accessibility to many resources, such as housing, finance, healthcare, education and employment opportunities. This can potentially lead to inequality that further aggravates social polarization.
+
+Under some circumstances, it is comprehensible that the socioeconomic status must be considered, for example, when people apply to loan or housing. Because the lenders would have to minimize their risks. However, policy should be made to mitigate economic inequality. Meanwhile, for some other purposes, such as college admission, those data should not be used during the selection process and therefore should not be collected in the first place.
+
+Another example is the impact of one's immigration status on employment opportunities, particularly in the US. Although it is illegal to discriminate against someone based on their national origin, many organizations would require the applicants to specify whether they would need visa sponsorship now or in the future and use this as a criterion in the hiring process. Those who are legally authorized to work but not having permanent residency or citizenship of the US would be excluded even if they are highly qualified.
+
+To ensure the equality and eliminate the chance of misusing information, only relevant information should be collected into the database. Other information that may potentially lead to discrimination should not be designed into the schema.
+
 ```
